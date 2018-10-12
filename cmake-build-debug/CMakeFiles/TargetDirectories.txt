@@ -1,0 +1,3 @@
+/Users/transon/Desktop/test/tinhCanhHuyen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/transon/Desktop/test/tinhCanhHuyen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/transon/Desktop/test/tinhCanhHuyen/cmake-build-debug/CMakeFiles/tinhCanhHuyen.dir
